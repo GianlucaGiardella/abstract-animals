@@ -9,6 +9,6 @@ public class PlayStation extends Player {
 
     @Override
     public void stop() {
-        System.out.println("Sono una PlayStation e sono in modalità play");
+        System.out.println("Sono una PlayStation e sono in modalità stop");
     }
 }
