@@ -1,6 +1,6 @@
 package org.lessons.java.players;
 
-public class PlayStation extends Player {
+public class PlayStation implements Player {
 
     @Override
     public void play() {

@@ -1,7 +1,7 @@
 package org.lessons.java.players;
 
-public abstract class Player {
-    public abstract void play();
+public interface  Player {
+    void play();
 
-    public abstract void stop();
+    void stop();
 }
